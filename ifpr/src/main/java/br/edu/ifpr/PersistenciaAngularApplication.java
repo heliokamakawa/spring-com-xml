@@ -9,5 +9,4 @@ public class PersistenciaAngularApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PersistenciaAngularApplication.class, args);
 	}
-
 }
